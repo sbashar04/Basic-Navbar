@@ -1,0 +1,20 @@
+{
+  "name": "Basic-Navbar",
+  "version": "1.0.0",
+  "description": "Teaching navbar to a student.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbashar04/Basic-Navbar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbashar04/Basic-Navbar/issues"
+  },
+  "homepage": "https://github.com/sbashar04/Basic-Navbar#readme"
+}
